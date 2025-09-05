@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Banner Image" width="100%"/>
+  <img src="https://github.com/azkhan980/azeemkhan/blob/main/efwen.jpg" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Azeem Khan 👋</h1>
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" src="https://github.com/azkhan980/azeemkhan/blob/main/WhatsApp%20Image%202025-08-23%20at%2014.09.24_51317243.jpg" alt="Profile Photo" width="250"/>
+<img align="right" src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Profile Photo" width="250"/>
 
 I’m a results-driven professional with a strong background in **Data Science, Business Administration, IT, and Digital Marketing**.  
 My focus is on turning **data into actionable insights** that drive smarter business strategies, digital growth, and customer engagement.  
