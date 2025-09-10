@@ -24,13 +24,14 @@ My focus is on turning **data into actionable insights** that drive smarter busi
 
 ## 📂 Projects & Work
 
-<details>
-<summary>🔹 Business & Data Analysis</summary>
+<details open>
+<summary>🔹 Business, Web & Data Projects</summary>
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| **Business Environment & Leadership Analysis** | Applied PESTEL, SWOT & Porter’s 5 Forces for companies like McDonald’s. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Business Analysis" width="200"/> |
-| **Data Visualization Dashboards** | Built dashboards with Python, Tableau & Power BI. | <img src="https://github.com/azkhan980/azeemkhan/blob/main/360_F_779927142_PZ9ZEE7DENGfdudCv19g33EMonBJ9kdO.jpg" alt="Data Viz" width="200"/> |
+| **E-commerce Platform (Backend & Data Analytics)** | Developed and maintained the backend of **daretehzeeb.com**, an online clothing brand. Implemented product/order management, integrated secure payments, and optimized databases. Applied data science to track sales, customer behavior, and inventory for smarter strategies. | <a href="https://daretehzeeb.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WP01.png" alt="Dar-e-Tehzeeb" width="220"/></a> |
+| **Backend Systems & Data Analytics (Student Project)** | Designed and optimized backend systems with REST APIs & databases. Used Python, Django/Flask, Pandas, NumPy, and Docker to build scalable solutions. Applied analytics for sales & operational insights. | <a href="https://www.manshabrothers.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WP02.png" alt="Mansha Brothers" width="220"/></a> |
+| **Startup Landing Page Prototype** | Built a modern, responsive landing page prototype with **HTML, CSS, JS, and Figma**. Focused on strong CTAs, UI/UX, and interactive elements for high engagement across devices. | <a href="https://ststub-landing.preview.emergentagent.com/" target="_blank"><img src="https://github.com/azkhan980/azkhan980/blob/main/WP03.png" alt="Startup Landing Page" width="220"/></a> |
 
 </details>
 
